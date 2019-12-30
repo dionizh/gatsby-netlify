@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     // edit below
-    title: `My Gatsby Starter Personal Blog`,
+    title: `Z Dioni's Awesome Blog`,
     author: `Dioni Zhong`,
     description: `A starter personal blog with styled components, dark mode, and Netlify CMS.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
