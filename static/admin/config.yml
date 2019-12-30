@@ -1,8 +1,6 @@
 backend:
-  name: gitlab
+  name: github
   repo: dionizh/gatsby-netlify
-  auth_type: implicit
-  app_id: fdf38f710affda8d3b5d9b17e3ef180774ed488ef0e07dce155231d82f5761a4
 
 media_folder: static/assets
 public_folder: assets
