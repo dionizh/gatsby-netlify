@@ -7,7 +7,16 @@ import Button from "../components/button"
 
 class IndexPage extends React.Component {
   render() {
-    const siteTitle = "Gatsby Starter Personal Website"
+    const siteTitle = ""
+    const imgStyle = {
+      width: "50%",
+      float: "left",
+      marginRight: "30px",
+      border: "3px double grey"
+    };
+    const quoteStyle = {
+      paddingTop: "180px"
+    };
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
@@ -15,21 +24,19 @@ class IndexPage extends React.Component {
           title="Home"
           keywords={[`blog`, `gatsby`, `javascript`, `react`]}
         />
-        <img style={{ margin: 0 }} src="./GatsbyScene.svg" alt="Gatsby Scene" />
-        <h1>
-          Hey people{" "}
-          <span role="img" aria-label="wave emoji">
-            👋
-          </span>
-        </h1>
-        <p>Welcome to your new Gatsby website. You are on your home page.</p>
-        <p>
-          This starter comes out of the box with styled components and Gatsby's
-          default starter blog running on Netlify CMS.
-        </p>
-        <p>Now go build something great!</p>
+
+        
+        <div>
+        <img style={ imgStyle } src="./ruin.jpg" alt="Ruin" />
+        </div>
+        
+          <div style={ quoteStyle }>
+          "Things need not have happened to be true. Tales and adventures are the shadow truths that will endure when mere facts are dust and ashes and forgotten." 
+~ Neil Gaiman
+          </div>
+        
         <Link to="/blog/">
-          <Button marginTop="35px">Go to Blog</Button>
+          <Button marginTop="35px">Blog</Button>
         </Link>
       </Layout>
     )
