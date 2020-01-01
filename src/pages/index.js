@@ -15,7 +15,8 @@ class IndexPage extends React.Component {
       border: "3px double grey"
     };
     const quoteStyle = {
-      paddingTop: "180px"
+      paddingTop: "180px",
+      fontFamily: 'Caveat',
     };
 
     return (
@@ -24,7 +25,6 @@ class IndexPage extends React.Component {
           title="Home"
           keywords={[`blog`, `gatsby`, `javascript`, `react`]}
         />
-
         
         <div>
         <img style={ imgStyle } src="./ruin.jpg" alt="Ruin" />

@@ -10,6 +10,7 @@ class Layout extends React.Component {
     const rootPath = `${__PATH_PREFIX__}/`
     const blogPath = `${__PATH_PREFIX__}/blog/`
     let header
+    let subheader
 
     if (location.pathname === rootPath || location.pathname === blogPath) {
       header = (
@@ -18,6 +19,7 @@ class Layout extends React.Component {
             ...scale(1.5),
             marginBottom: rhythm(1.5),
             marginTop: 0,
+            fontFamily: `Caveat`
           }}
         >
           <Link
@@ -30,16 +32,16 @@ class Layout extends React.Component {
           >
             {title}
           </Link>
-        </h1>
-      )
+        </h1>        
+      )      
     } else {
       header = (
         <h3
           style={{
-            fontFamily: `Montserrat, sans-serif`,
+            fontFamily: `Caveat, Montserrat, sans-serif`,
             marginTop: 0,
           }}
-        >
+        >          
           <Link
             style={{
               boxShadow: `none`,
@@ -50,8 +52,20 @@ class Layout extends React.Component {
           >
             {title}
           </Link>
-        </h3>
+        </h3>        
       )
+    }
+    if (location.pathname === blogPath) {
+      subheader = (
+        <p 
+          style={{
+            marginTop: `-45px`,
+            fontFamily: `Caveat`,
+            fontSize: `20px`
+          }}
+        >          
+          Alice: How long is forever? The White Rabbit: Sometimes, just one second.
+        </p>)
     }
     return (
       <Wrapper>
@@ -64,6 +78,7 @@ class Layout extends React.Component {
           }}
         >
           <header>{header}</header>
+          <subheader>{subheader}</subheader>
           <main>{children}</main>
         </div>
         <Footer>
@@ -83,6 +98,7 @@ const Wrapper = styled.div`
 const Footer = styled.footer`
   text-align: center;
   margin: 24px;
+  font-family: 'Caveat';
 `
 
 export default Layout

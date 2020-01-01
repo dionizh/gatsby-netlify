@@ -15,11 +15,7 @@ const typography = new Typography({
     {
       name: 'Caveat',
       styles: [
-        '300',
-        '400',
-        '500',
-        '600',
-        '700'
+        '400'
       ],
     }
   ]
