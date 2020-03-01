@@ -6,7 +6,7 @@ thumbnail: /assets/img_0460.jpg
 ---
 My mum has a bad habit while traveling. She would encounter something that she really likes, and continues to look for that one thing throughout the entire journey. The last time she and I were country hopping around Europe, we had a fruit beer in Germany. It was excellent, the entire group was loving it, my mum and two aunties. They never had anything like it before. 
 
-Mum then kept asking for a fruit beer in the coming days, no matter where were - Rome, Athens, France. 
+Mum then kept asking for a fruit beer in the coming days, no matter where we were - Rome, Athens, France. 
 
 _Mum, how do I tell you? Fruit beer is a German thing. We've passed Germany. Can't go back._
 
