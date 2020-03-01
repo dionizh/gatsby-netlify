@@ -2,8 +2,7 @@
 layout: blog
 title: The Reason I Write
 date: 2020-01-01T22:08:00.000Z
-thumbnail: /assets/storytelling-quotes-zadie-smith-author.webp
-description: My inaugural post for this new venture
+thumbnail: /assets/storytelling-quotes-zadie-smith-author.png
 ---
 ![](/assets/storytelling-quotes-zadie-smith-author.webp)
 
