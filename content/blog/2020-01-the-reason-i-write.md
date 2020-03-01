@@ -4,7 +4,7 @@ title: The Reason I Write
 date: 2020-01-01T22:08:00.000Z
 thumbnail: /assets/storytelling-quotes-zadie-smith-author.png
 ---
-![](/assets/storytelling-quotes-zadie-smith-author.webp)
+![](/assets/storytelling-quotes-zadie-smith-author.png)
 
 Hello Blog.
 
