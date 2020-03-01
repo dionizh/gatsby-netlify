@@ -10,7 +10,7 @@ Mum then kept asking for a fruit beer in the coming days, no matter where we wer
 
 _Mum, how do I tell you? Fruit beer is a German thing. We've passed Germany. Can't go back._
 
-She did the same (to a lesser degree) when we were traveling in India. By luck she had an excellent mushroom soup. And in the upcoming days, where ever we went, she was ordering a mushroom soup and got horribly disappointed each and every time. (Because India, why mushroom soup? I mean, what's the connection?)
+She did the same (to a lesser degree) when we were traveling in India. By luck she had an excellent mushroom soup. And in the upcoming days, where ever we went, she ordered a mushroom soup and got horribly disappointed each and every time. (Because India, why mushroom soup? I mean, what's the connection?)
 
 What I realised, amplified by my mum in an odd way, that most people are hanging onto good memories and expecting them to be repeatable. 
 
