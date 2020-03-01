@@ -38,9 +38,8 @@ function Bio() {
               fontSize: `15px`
             }}>              
               Authored by <strong>{author}</strong>, 
-              who half the time wonders how she gets here.
-              Writing is a re-arranging, to make sense of the world.
-              <i> [insert deactived social media links]</i>
+              who half the time wonders how she got here.
+              Writing is her way to make sense of the world.              
             </p>
           </Container>
         )
