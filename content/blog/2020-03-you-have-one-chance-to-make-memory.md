@@ -32,8 +32,8 @@ More than my travels with any other people, I was awfully aware, that I had only
 
 The next time I go back to Australia, he would be another year older, or two years. He will change. He will grow up to be a different boy, as children do. He might grow up forgetting all the time we spent together, and about me. He might become an amazing young man, or he might take a wrong turn, grow bitter and hate all his family. So much can happen, so much is yet to happen.
 
-Bloody knee and all, I am so glad we had that one chance to make memory and I took it. 
+But at that moment he was sweet and he was happy. Bloody knee and all, I am so glad we had that one chance to make memory and I took it. 
 
-At the end we did only have one afternoon for the bikes. One afternoon for the scooter. Of course we did a lot of other things together, with mum, and his dad. But the two of us had just one chance for the bikes. And the scooter. One chance.
+At the end we did only have one afternoon for the bikes, one hour in fact. One hour for the scooter. Of course we did a lot of other things together, with mum, and his dad. But the two of us had just one chance for the bikes. And the scooter. One chance.
 
 ![](/assets/img_0460.jpg)
