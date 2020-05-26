@@ -1,0 +1,10 @@
+---
+layout: blog
+title: Tennessee Williams - On Writing
+thumbnail: ''
+---
+> It's hard enough for me to write what I want to write without me trying to write what you say they want me to write which I don't want to write.
+
+Tennessee Williams, ladies and gentlemen. Can I get a clap?
+
+(After reading and watching [A Streetcar Named Desire](https://www.goodreads.com/review/show/3355280351))
