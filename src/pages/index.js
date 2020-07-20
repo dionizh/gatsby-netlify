@@ -15,8 +15,12 @@ class IndexPage extends React.Component {
       border: "3px double grey"
     };
     const quoteStyle = {
-      paddingTop: "180px",
+      paddingTop: "150px",
       fontFamily: 'Caveat',
+    };
+    const infoStyle = {
+      fontSize: "0.7em",
+      paddingTop: "20px"
     };
 
     return (
@@ -31,13 +35,20 @@ class IndexPage extends React.Component {
         </div>
         
           <div style={ quoteStyle }>
-          "Things need not have happened to be true. Tales and adventures are the shadow truths that will endure when mere facts are dust and ashes and forgotten." 
+          "Things need not have happened to be true. Tales and adventures are 
+          the shadow truths that will endure when mere facts are dust and ashes and forgotten." 
 ~ Neil Gaiman
           </div>
         
         <Link to="/blog/">
           <Button marginTop="35px">Blog</Button>
         </Link>
+
+        <div style={ infoStyle }>
+        If you're looking for my old blogs, I've migrated <a href="https://meexia.wordpress.com/">Bookie Mee 
+        here</a> and <a href="https://thewanderingmee.wordpress.com/">Wandering Mee here</a>, 
+        just for archive.
+        </div>
       </Layout>
     )
   }
