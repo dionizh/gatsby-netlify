@@ -32,7 +32,7 @@ class Blog extends React.Component {
                       boxShadow: `none`,
                       textDecoration: 'none'
                     }}
-                    to={`blog${node.fields.slug}`}
+                    to={`/blog${node.fields.slug}`}
                   >
                     {title}
                   </Link>
