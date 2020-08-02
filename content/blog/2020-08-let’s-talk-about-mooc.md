@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Let’s Talk about MOOC
-date: ""
+date: 2020-08-02T08:34:41.214Z
 ---
 Recently during the lockdown period, I have started to pick up on MOOCs again, particularly on Coursera. MOOC (Massive Open Online Course) is not new to me. I used to hang around on Coursera and other online learning platforms quite a lot in 2013 (Coursera was founded in 2012) and [even wrote about it](https://medium.com/@meexia/free-online-courses-the-answer-to-world-problem-43e9b60f3819).
 
