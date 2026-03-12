@@ -10,6 +10,16 @@
 
 <img alt="screesnhot" src="./screenshot.png">
 
+<p>
+Dioni's note: I think this was deployed before the Hugo based site to meexia.com
+though I barely remember anything about it. I'm archiving this because it's too
+much hassle to update gatsby and its dependencies. The last error was because because
+we need to use an older Node version for Gatsby 2.x (Node 16 or Node 18, while
+at the time of writing we've come to Node 25). Atm it cannot even be run
+so I can't see how it looks like. And there's security vulnerability warning
+from github. So let's just archive this to read-only.
+</p>
+
 This starter is a fork of Gatsby Starter Blog, the most popular starter by far – with second place being Gatsby Starter Netlify CMS. So I decided to combine the 2!
 
 ## 🚀 Quick start
