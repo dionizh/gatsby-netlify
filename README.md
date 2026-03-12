@@ -11,7 +11,8 @@
 <img alt="screesnhot" src="./screenshot.png">
 
 <p>
-Dioni's note: I think this was deployed before the Hugo based site to meexia.com
+## Dioni's note
+I think this was deployed before the Hugo based site to meexia.com
 though I barely remember anything about it. I'm archiving this because it's too
 much hassle to update gatsby and its dependencies. The last error was because because
 we need to use an older Node version for Gatsby 2.x (Node 16 or Node 18, while
