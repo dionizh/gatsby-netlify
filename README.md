@@ -10,7 +10,7 @@
 
 <img alt="screesnhot" src="./screenshot.png">
 
-## Dioni's note
+## Dioni's note 12 Mar 2026
 
 I think this was deployed before the Hugo based site to meexia.com
 though I barely remember anything about it. I'm archiving this because it's too
